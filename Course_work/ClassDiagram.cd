@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Course_work.Information">
+    <Position X="1.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAEIAAIAgABIAQQAAAQAAAiAAChABABAAQ=</HashCode>
+      <FileName>Information.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Base">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIIAIAAACAAQAAAAABAAAAAAAAAEAAAEAAAAAgACAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Course_work.Main_form">
+    <Position X="5.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>/0AbEASACCaEgDooCQCBAIgCAJG9AAECASlhABJcgXA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
